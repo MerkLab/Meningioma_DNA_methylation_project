@@ -8,4 +8,5 @@ I) to identify a DNA hypermethylation signature associated with disease progress
 II) to infer copy number variations in benign and malignant meningiomas
 III) to perform survival analyses and assess prediction performances of Cox regression models
 IV) to investigate differential methylation in between normal meninges and distinct meningioma settings
-V) to peform trajectory inference in order to analyze DNA methylation profiles in the context of microevolutionary development from normal meninges to malignant meningioma
+V) to perform trajectory inference in order to analyze DNA methylation profiles in the context of microevolutionary development from normal meninges to malignant meningioma
+VI) to perform differential gene expression analysis of benign and malignant meningiomas
