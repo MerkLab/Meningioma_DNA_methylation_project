@@ -12,5 +12,5 @@ IV) to investigate differential methylation in between normal meninges and disti
 V) to perform trajectory inference in order to analyze DNA methylation profiles in the context of microevolutionary development from normal meninges to malignant meningioma
 VI) to perform differential gene expression analysis of benign and malignant meningiomas
 
-Lastly, we provide an easy-to-use web application that predicts hypermethylation class association and genome-wide copy number analysis at https://mmcc.neurologie.uni-tuebingen.de.
+Last, we provide an easy-to-use web application that predicts hypermethylation class association and genome-wide copy number analysis at https://mmcc.neurologie.uni-tuebingen.de.
 
