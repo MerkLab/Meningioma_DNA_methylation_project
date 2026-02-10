@@ -14,7 +14,7 @@ VI) to perform differential gene expression analysis of benign and malignant men
 
 Last, we provide an easy-to-use web application that predicts hypermethylation class association and genome-wide copy number analysis at https://mmcc.neurologie.uni-tuebingen.de.
 
-Please find the versions numbers of the most relevant R packages used within our code below:
+Please find the versions numbers of the most relevant R packages used within our code below. All calculations were peformed on a MacBook Pro, Apple M1 Chip, MacOS Sequoia 15.6.1.
 R (v4.4.2)
 SeSAMe (v1.24.0)
 sesameData (v1.24.0)
