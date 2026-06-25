@@ -16,7 +16,7 @@ VI) to perform differential gene expression analysis of benign and malignant men
 
 The code of this study has been subdivided into 12 sub-sections that individually fulfill distinct aims within the course of the study. Following, the main tasks of each code sub-section are highlighted:
 
-01_QC-preselect: Several measures are employed to screen a total of ??? DNA methylation arrays from human meningioma as initial quality control, including probe signal intensities and signal-to-noise ratios. Output is a total of 231 human meningioma samples with high-quality DNA methylation arrays included in the discovery cohort.
+01_QC-preselect: Several measures are employed to screen a total of 237 DNA methylation arrays from human meningioma as initial quality control, including probe signal intensities and signal-to-noise ratios. Output is a total of 231 human meningioma samples with high-quality DNA methylation arrays included in the discovery cohort.
 
 02_discovery_benchmarking: Samples from the discovery cohort were validated to recapitulate know molecular and clinical features of human meningioma, including immune cell infiltration and survival stratification using molecular groups. 
 
