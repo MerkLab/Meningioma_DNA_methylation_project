@@ -43,6 +43,8 @@ The code of this study has been subdivided into 12 sub-sections that individuall
 
 Last, we provide an easy-to-use web application that predicts hypermethylation class association and genome-wide copy number analysis at https://mmcc.neurologie.uni-tuebingen.de. The code to this web app can be found within the 12_classifier code file.
 
+For full reproducibility, we parallel our code with raw data and helpful intermediate files on GEO and Figshare. To reproduce our data, clone the "DNA_methylation_meningioma" folder from Figshare () and make it your root directory. Our code will work on this folder structure. As indicated by README files in several subfolders, populate corresponding folders with raw data from GEO (GSE109381, GSE180061, GSE183656, GSE304087, GSE304093, GSE304094, GSE304096) or Figshare ().
+
 Please find the version numbers of the most relevant R packages used within our code below. All packages are available at Bioconductor, except conumee2, which was cloned from Github (https://github.com/hovestadtlab/conumee2). All calculations were performed on a MacBook Pro, Apple M1 Chip, MacOS Sequoia 15.6.1.
 R (v4.4.2)
 SeSAMe (v1.24.0)
