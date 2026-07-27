@@ -12,7 +12,7 @@ library(here)
 ###this model is based on samples from the discovery cohort
 ###data-driven thresholds for prediction confidence are calculated
 ###random forest model is saved as an .RDS file
-###beginning with line 114, all code and corresponding R packages used to generate the webapp classifier are shown
+###beginning with line 122, all code and corresponding R packages used to generate the webapp classifier are shown
 
 ###final rf model on differentially methylated probes EPIC compatible
 #######repeat running the rf model, check accuracy and  check probability distributions for model that works only on differentially methylated probes
